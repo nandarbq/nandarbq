@@ -15,12 +15,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 🐍 My GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandarbq/nandarbq/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandarbq/nandarbq/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nandarbq/nandarbq/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandarbq/nandarbq/snake-output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandarbq/nandarbq/snake-output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nandarbq/nandarbq/snake-output/github-snake.svg">
 </picture>
 
 ## 🟡 Pac-Man Contribution
